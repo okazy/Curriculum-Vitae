@@ -4,12 +4,11 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|岡嶋 秀記 (Hideki Okajima))|
+|GitHub|[okazy](https://github.com/okazy)|
+|Qiita|[okazy](https://qiita.com/okazy)|
+|Facebook|[hideki.okajima.758](https://www.facebook.com/hideki.okajima.758)|
+|SlideShare|[hidekiokajima758](https://www.slideshare.net/hidekiokajima758)|
 
 ## スキル
 

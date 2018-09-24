@@ -91,14 +91,6 @@
 - 2013/11 mixi Scrap Challenge 【Most Valuable Team 2013.12.14】
 - 2013/11 テクノアイデアコンテスト ”テクノ愛2014” へそくリスト 【大学の部】 準グランプリ
 
-## 学術活動
-
-- Hideki, Osamu, “An Approach for Abbreviated Identifier Expansion with Machine Learning,” IEICE Technical Report, 114(SS2014-68), pp. 79-84 March 2015.
-- 岡嶋, “単語ベクトルによる省略識別子の復元推定手法に関する研究,” 修士学位論文, 京都工芸繊維大学大学院工芸科学研究科, 2015年.
-- 岡嶋, 河端, 水野, “単語ベクトルを用いた省略識別子の復元手法,” ソフトウェア信頼性研究会FORCE2014予稿集, 2-2, 2014年12月.
-- H. Okajima and O. Mizuno, “Applying Vector Calculation for Identifiers in Source Code Towards Bug Prediction,” In Poster presentation of 6th International Workshop on Empirical Software Engineering in Practice (IWESEP2014), November 2014.
-- Hideki, “分散ストレージにおけるノード間通信のパケット併合による高速化,” 卒業研究報告書, 京都工芸繊維大学, February 2013.
-
 ## 資格
 
 - 2009/09 第一種普通自動車運転免許
@@ -108,22 +100,30 @@
 
 ## 職務経歴
 
-### yyyy/mm - : 会社名
+### 2015/04 - : 株式会社ロックオン
 
-職務: Webアプリケーションエンジニア（例）
+職務: システムエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### ネットショップを中心とした受託開発
 
-- 職務内容の詳細を箇条書きでかく
+- EC-CUBEを軸にしたWebサイトの開発及び保守
+- インフラ構築からフロントエンドの開発まで経験
+- 要件定義から設計、開発、テスト、運用サポートまで経験
+- オフショア開発
 
-#### 職務内容の名前（レストラン検索とか）
+#### EC-CUBEの開発
 
-- 職務内容の詳細を箇条書きでかく
+- [EC-CUBE](https://github.com/EC-CUBE/ec-cube)の開発
+- EC-CUBE4のPOC開発
+- スクラム開発
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+### 2013/04 - 2015/03: 京都工芸繊維大学大学院 情報工学専攻 博士前期課程
 
-職務: サーバーサイドエンジニア
+研究室: ソフトウェア工学
 
-#### 職務内容の名前（レストラン検索とか）
+#### 学術活動
 
-- 職務内容の詳細を箇条書きでかく
+- Hideki, Osamu, “An Approach for Abbreviated Identifier Expansion with Machine Learning,” IEICE Technical Report, 114(SS2014-68), pp. 79-84 March 2015.
+- 岡嶋, “単語ベクトルによる省略識別子の復元推定手法に関する研究,” 修士学位論文, 京都工芸繊維大学大学院工芸科学研究科, 2015年.
+- 岡嶋, 河端, 水野, “単語ベクトルを用いた省略識別子の復元手法,” ソフトウェア信頼性研究会FORCE2014予稿集, 2-2, 2014年12月.
+- H. Okajima and O. Mizuno, “Applying Vector Calculation for Identifiers in Source Code Towards Bug Prediction,” In Poster presentation of 6th International Workshop on Empirical Software Engineering in Practice (IWESEP2014), November 2014.

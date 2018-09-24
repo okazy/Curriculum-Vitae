@@ -21,41 +21,19 @@
 - 英語
   - 英語のドキュメントをGoogle翻訳や辞書を使いつつ、だいたいの意味をつかむことができる
 
-### スキル
+### 技術
 
-- PHP
-  - PHPUnit
-  - Symfony
-  - Doctrine
-  - twig
-  - silex
-  - Smarty
-- フロントエンド
-  - JavaScript
-  - HTML5
-  - CSS
-  - SCSS
-- DB
-  - PostgreSQL
-  - MySQL
-  - SQLite
-- CI
-  - TravisCI
-  - Selenium
-  - Docker
-- バージョン管理システム
-  - Git
-  - SVN
-- OS
-  - MacOS
-  - Linux
-  - Windows
-- インフラ
-  - AWS
-    - EC2, RDS, S3, Route53, ELB, VPN
-  - さくらクラウド
+|分類|詳細|
+|---|-----|
+|PHP|PHPUnit, Symfony, Doctrine, twig, silex, Smarty|
+|フロントエンド|JavaScript, HTML5, CSS, SCSS|
+|DB|PostgreSQL, MySQL, SQLite|
+|CI|TravisCI, Selenium, Docker|
+|バージョン管理システム|Git, SVN|
+|OS|MacOS, Linux, Windows|
+|インフラ|AWS(EC2, RDS, S3, Route53, ELB, VPN), さくらクラウド|
 
-### その他
+### その他好むもの
 
 - スクラム開発
 - Mac
@@ -102,7 +80,7 @@
 
 ### 2015/04 - : 株式会社ロックオン
 
-職務: システムエンジニア
+職務: エンジニア
 
 #### ネットショップを中心とした受託開発
 

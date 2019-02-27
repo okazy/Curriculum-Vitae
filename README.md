@@ -9,6 +9,7 @@
 |Qiita|[okazy](https://qiita.com/okazy)|
 |Facebook|[hideki.okajima.758](https://www.facebook.com/hideki.okajima.758)|
 |SlideShare|[hidekiokajima758](https://www.slideshare.net/hidekiokajima758)|
+|Speaker Deck|[okazy](https://speakerdeck.com/okazy)|
 
 ## スキル
 

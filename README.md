@@ -7,6 +7,7 @@
 |Name|岡嶋 秀記 (Hideki Okajima))|
 |GitHub|[okazy](https://github.com/okazy)|
 |Qiita|[okazy](https://qiita.com/okazy)|
+|Twitter|[@OwOkazy](https://twitter.com/OwOkazy)|
 |Facebook|[hideki.okajima.758](https://www.facebook.com/hideki.okajima.758)|
 |SlideShare|[hidekiokajima758](https://www.slideshare.net/hidekiokajima758)|
 |Speaker Deck|[okazy](https://speakerdeck.com/okazy)|
@@ -21,6 +22,7 @@
   - ネイティブ
 - 英語
   - 英語のドキュメントをGoogle翻訳や辞書を使いつつ、だいたいの意味をつかむことができる
+- などなど
 
 ### 技術
 
@@ -79,7 +81,7 @@
 
 ## 職務経歴
 
-### 2015/04 - : 株式会社ロックオン
+### 2015/04 - 現在 : 株式会社ロックオン
 
 職務: エンジニア
 
@@ -106,3 +108,22 @@
 - 岡嶋, “単語ベクトルによる省略識別子の復元推定手法に関する研究,” 修士学位論文, 京都工芸繊維大学大学院工芸科学研究科, 2015年.
 - 岡嶋, 河端, 水野, “単語ベクトルを用いた省略識別子の復元手法,” ソフトウェア信頼性研究会FORCE2014予稿集, 2-2, 2014年12月.
 - H. Okajima and O. Mizuno, “Applying Vector Calculation for Identifiers in Source Code Towards Bug Prediction,” In Poster presentation of 6th International Workshop on Empirical Software Engineering in Practice (IWESEP2014), November 2014.
+
+## 課外活動
+
+### 社外プロジェクト
+* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
+* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+
+### 過去の登壇資料
+* [Speaker Deck](Speaker Deckの自分の資料のページとか)
+
+### 受賞歴
+* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
+
+### 執筆歴
+* [書籍の名前](Amazonのリンクとか)
+* [Qiita](Qiitaの自分のプロフィールのリンクとか)
+* [ネットメディアの記事](記事のリンクとか)
+* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
+* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)

@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+title: "@okazyまとめ"
+description: "自称オープンエンジニア。"
+
+logo: img/logo.png
+google_analytics: "UA-140399200-1"
+
+twitter:
+  username: OwOkazy

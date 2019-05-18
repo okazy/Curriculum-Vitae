@@ -6,11 +6,8 @@
 |---|-----|
 |Name|岡嶋 秀記 (Hideki Okajima))|
 |GitHub|[okazy](https://github.com/okazy)|
-|Qiita|[okazy](https://qiita.com/okazy)|
 |Twitter|[@OwOkazy](https://twitter.com/OwOkazy)|
 |Facebook|[hideki.okajima.758](https://www.facebook.com/hideki.okajima.758)|
-|SlideShare|[hidekiokajima758](https://www.slideshare.net/hidekiokajima758)|
-|Speaker Deck|[okazy](https://speakerdeck.com/okazy)|
 
 ## スキル
 
@@ -48,29 +45,17 @@
 ## 強み
 
 - 技術に限らず未知のものに対する好奇心
-- 要件定義から設計・実装・テストまで幅広く経験
+- 要件定義から設計・実装・テスト・顧客対応まで幅広く経験
 - インフラ設計・構築から画面設計・UI/UXまで幅広く経験
-- OSSでの開発経験
+- OSSのコアエンジニアとしての開発経験
+- OSSコミュニティの立ち上げおよびコアメンバーとして牽引した経験
 
 ## やったことはないが興味があるもの
 
 - 機械学習
-- モダンなライブラリ・フレームワークを利用した Single Page Application
-
-## 登壇歴
-
-- EC-CUBE関西UG
-- 各種イベントのLT大会等
-
-## 受賞歴
-
-- 2016/08 築地ッカソン 迷路(仮) 【リアルだね賞】
-- 2015/11 Hardening 10 ValueChain 主催者に取り上げられました
-- 2015/08 茶ッカソン 【3位入賞】【ABC特別賞】
-- 2015/06 Teamwork Hack Vol.1 YuSulio 【AWS賞】【YuMake賞】
-- 2014/10 NTT西日本 × TBS TV HACK DAY スマイレイト(動画) 【優秀賞】 アイデア賞 【API企業賞】 オムロン賞
-- 2013/11 mixi Scrap Challenge 【Most Valuable Team 2013.12.14】
-- 2013/11 テクノアイデアコンテスト ”テクノ愛2014” へそくリスト 【大学の部】 準グランプリ
+- SPA
+- 制御工学
+- HFT
 
 ## 資格
 
@@ -80,6 +65,16 @@
 - 2014/09 第二種電気工事士
 
 ## 職務経歴
+
+### 2019/01 - 現在 : 株式会社イーシーキューブ
+
+職務: オープンエンジニア
+
+#### コミュニティマネージャ
+
+- 各地のユーザグループや開発コミュニティのリード
+- 社内外のコミュニケーションの牽引
+- 1000人規模を巻き込んだイベントの実行委員長の経験
 
 ### 2015/04 - 現在 : 株式会社ロックオン
 
@@ -104,26 +99,35 @@
 
 #### 学術活動
 
-- Hideki, Osamu, “An Approach for Abbreviated Identifier Expansion with Machine Learning,” IEICE Technical Report, 114(SS2014-68), pp. 79-84 March 2015.
+- Hideki, Osamu, “[An Approach for Abbreviated Identifier Expansion with Machine Learning](https://ci.nii.ac.jp/naid/110010022018),” IEICE Technical Report, 114(SS2014-68), pp. 79-84 March 2015.
 - 岡嶋, “単語ベクトルによる省略識別子の復元推定手法に関する研究,” 修士学位論文, 京都工芸繊維大学大学院工芸科学研究科, 2015年.
-- 岡嶋, 河端, 水野, “単語ベクトルを用いた省略識別子の復元手法,” ソフトウェア信頼性研究会FORCE2014予稿集, 2-2, 2014年12月.
-- H. Okajima and O. Mizuno, “Applying Vector Calculation for Identifiers in Source Code Towards Bug Prediction,” In Poster presentation of 6th International Workshop on Empirical Software Engineering in Practice (IWESEP2014), November 2014.
+- 岡嶋, 河端, 水野, “[単語ベクトルを用いた省略識別子の復元手法](https://se.is.kit.ac.jp/pman/pman3.cgi?D=699),” ソフトウェア信頼性研究会FORCE2014予稿集, 2-2, 2014年12月.
+- H. Okajima and O. Mizuno, “[Applying Vector Calculation for Identifiers in Source Code Towards Bug Prediction](https://se.is.kit.ac.jp/pman/pman3.cgi?D=694#),” [In Poster presentation of 6th International Workshop on Empirical Software Engineering in Practice (IWESEP2014)](https://iwesep2014.github.io/), November 2014.
 
 ## 課外活動
 
 ### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+
+- [EC-CUBE関西UG](https://ec-cube-kansai.doorkeeper.jp/)の運営
+- [Symfony Meetup Kansai](https://symfony-kansai.connpass.com/)の立ち上げ
 
 ### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
+
+- [SlideShare](https://www.slideshare.net/hidekiokajima758)
+- [Speaker Deck](https://speakerdeck.com/okazy)
+
 
 ### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
+
+- 2018/12 KansaiLT 2nd @さくらインターネット【さくらインターネット賞】
+- 2016/08 [築地ッカソン](https://tsukijickathon.connpass.com/event/36096/) 迷路(仮) 【リアルだね賞】
+- 2015/11 [Hardening 10 ValueChain](https://wasforum.jp/2015/08/hardening-10-valuechain/) [主催者に取り上げられました](https://www.lac.co.jp/lacwatch/people/20151120_000284.html)
+- 2015/08 [茶ッカソン](https://peatix.com/event/101862) 【3位入賞】【ABC特別賞】
+- 2015/06 [Teamwork Hack Vol.1](https://appresso-cybozu.doorkeeper.jp/events/22358) [YuSulio](https://www.slideshare.net/zaki5269/yusulio) 【AWS賞】【YuMake賞】
+- 2014/10 [NTT西日本 × TBS TV HACK DAY](http://www.tbs.co.jp/nw_tv_hack_day/) スマイレイト 【優秀賞】 アイデア賞 【API企業賞】 オムロン賞
+- 2013/11 mixi Scrap Challenge 【Most Valuable Team 2013.12.14】
+- 2013/11 [テクノアイデアコンテスト ”テクノ愛2014”](http://www.khc.or.jp/ology/tecno25.html) [へそくリスト](http://interaction-design.kit.ac.jp/2019/physical/works/works_contents/2013/2013works0202.html) 【大学の部】 準グランプリ
 
 ### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+
+- [Qiita](https://qiita.com/okazy)

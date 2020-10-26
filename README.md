@@ -13,12 +13,12 @@
 
 ### 言語
 
-- PHP
-- JavaScript
 - 日本語
   - ネイティブ
 - 英語
   - 英語のドキュメントをGoogle翻訳や辞書を使いつつ、だいたいの意味をつかむことができる
+- PHP
+- JavaScript
 - などなど
 
 ### 技術
@@ -28,40 +28,34 @@
 |PHP|PHPUnit, Symfony, Doctrine, twig, silex, Smarty|
 |フロントエンド|JavaScript, HTML5, CSS, SCSS|
 |DB|PostgreSQL, MySQL, SQLite|
-|CI|TravisCI, Selenium, Docker|
+|CI|TravisCI, Selenium, Docker, GitHub Actions|
 |バージョン管理システム|Git, SVN|
 |OS|MacOS, Linux, Windows|
-|インフラ|AWS(EC2, RDS, S3, Route53, ELB, VPN), さくらクラウド|
+|インフラ|AWS, GCP, さくらクラウドなど|
 
 ### その他好むもの
 
 - スクラム開発
 - Mac
-- Github
+- GitHub
 - Jira
 - slack
 - JetBrains
 
 ## 強み
 
-- 技術に限らず未知のものに対する好奇心
+- 技術に限らず未知のものに対する好奇心と行動力
 - 要件定義から設計・実装・テスト・顧客対応まで幅広く経験
 - インフラ設計・構築から画面設計・UI/UXまで幅広く経験
 - OSSのコアエンジニアとしての開発経験
 - OSSコミュニティの立ち上げおよびコアメンバーとして牽引した経験
+- フレームワークを使うだけでなく、フレームワークを作る経験
+- コンプピュータサイエンス/数学/統計学などの基礎知識
 
 ## やったことはないが興味があるもの
 
 - 機械学習
 - 制御工学
-- HFT
-
-## 資格
-
-- 2009/09 第一種普通自動車運転免許
-- 2010/10 危険物取扱者乙種第４類
-- 2014/03 高圧ガス販売主任者第二種
-- 2014/09 第二種電気工事士
 
 ## 職務経歴
 
@@ -69,30 +63,58 @@
 
 職務: オープンエンジニア
 
-#### コミュニティマネージャ
+#### EC-CUBEのバージョンアップおよび技術検証 (2020/04 - 現在)
 
-- 各地のユーザグループや開発コミュニティのリード
+- EC-CUBEのマイナーバージョンの開発およびリリース
+- セキィリティ対策や脆弱性診断など
+- PHP8/Symfony4.4/Composer2.0等の最新バージョンへの対応
+- EC-CUBEの独自の拡張機構の検証と実装
+
+#### EC-CUBE Web API開発 (2020/01 - 2020/09)
+
+- EC-CUBE4対応の[Web APIプラグイン](https://github.com/EC-CUBE/eccube-api4)の開発
+- 要件定義/技術選定から設計/開発/リリースまでの全工程をリード
+- OAuth2.0 による認可のサーバサイドの開発
+- GraphQL の Query および Mutation の開発
+- 開発者向けの拡張機構の開発
+- [開発者向けドキュメント](https://doc.ec-cube.net/eccube-api4/)の作成
+
+#### コミュニティマネージャ (2018/10 - 現在)
+
+- [ユーザグループ](https://ec-cube-kansai.doorkeeper.jp/)や[開発コミュニティ](https://xoops.ec-cube.net/)のリード
+- GitHub上での[OSS開発](https://github.com/EC-CUBE/ec-cube/graphs/contributors?from=2019-01-01&to=2020-10-26&type=c)をリード
+- 1000人規模を巻き込んだ[イベント](https://www.ec-cube.net/events/eccube_day_2019/)の実行委員長の経験
 - 社内外のコミュニケーションの牽引
-- 1000人規模を巻き込んだイベントの実行委員長の経験
+- UI改善や技術サポートなどでマーケットプレイス型ストアの売上推進
 
-### 2015/04 - 現在 : 株式会社イルグルム（旧：株式会社ロックオン）
+### 2015/04 - 2019/09 : 株式会社イルグルム（旧：株式会社ロックオン）
 
-職務: エンジニア
+#### EC-CUBEのメジャーバージョンアップ (2017/10 - 2018/10)
 
-#### ネットショップを中心とした受託開発
+職務: バックエンドエンジニア
+
+- [EC-CUBE4](https://github.com/EC-CUBE/ec-cube)メジャーバージョンのPOC開発
+- 開発メンバーとしてスクラム開発を経験
+- フレームワークの開発を経験（独自拡張機構の実装など）
+- Ui/UXを考慮した画面設計など
+- 自動テスト、CI/CDを経験
+
+#### ECサイトを中心とした受託開発 (2015/04 - 2017/09)
+
+職務: フルスタックエンジニア
 
 - EC-CUBEを軸にしたWebサイトの開発及び保守
 - インフラ構築からフロントエンドの開発まで経験
 - 要件定義から設計、開発、テスト、運用サポートまで経験
-- オフショア開発
+- オフショア開発を経験
+- 代表的なプロジェクト
+  - アーティストのECサイト（新規サイト構築、高アクセス対策など）
+  - 健康食品のECサイト（基幹システム連携、高アクセス対策など）
+  - オンプレからクラウドへの移行プロジェクト
+  - 事業移管プロジェクト
+  - その他、ステップメール、キャンペーン機能、見積もり機能などを開発
 
-#### EC-CUBEの開発
-
-- [EC-CUBE](https://github.com/EC-CUBE/ec-cube)の開発
-- EC-CUBE4のPOC開発
-- スクラム開発
-
-### 2013/04 - 2015/03: 京都工芸繊維大学大学院 情報工学専攻 博士前期課程
+### 2013/04 - 2015/03: 国立京都工芸繊維大学大学院 情報工学専攻 博士前期課程
 
 研究室: ソフトウェア工学
 
@@ -102,6 +124,13 @@
 - 岡嶋, “単語ベクトルによる省略識別子の復元推定手法に関する研究,” 修士学位論文, 京都工芸繊維大学大学院工芸科学研究科, 2015年.
 - 岡嶋, 河端, 水野, “[単語ベクトルを用いた省略識別子の復元手法](https://se.is.kit.ac.jp/pman/pman3.cgi?D=699),” ソフトウェア信頼性研究会FORCE2014予稿集, 2-2, 2014年12月.
 - H. Okajima and O. Mizuno, “[Applying Vector Calculation for Identifiers in Source Code Towards Bug Prediction](https://se.is.kit.ac.jp/pman/pman3.cgi?D=694#),” [In Poster presentation of 6th International Workshop on Empirical Software Engineering in Practice (IWESEP2014)](https://iwesep2014.github.io/), November 2014.
+
+## 資格
+
+- 2009/09 第一種普通自動車運転免許
+- 2010/10 危険物取扱者乙種第４類
+- 2014/03 高圧ガス販売主任者第二種
+- 2014/09 第二種電気工事士
 
 ## 課外活動
 
@@ -114,7 +143,6 @@
 
 - [SlideShare](https://www.slideshare.net/hidekiokajima758)
 - [Speaker Deck](https://speakerdeck.com/okazy)
-
 
 ### 受賞歴
 

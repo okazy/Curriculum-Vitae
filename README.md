@@ -153,7 +153,7 @@
 - 2015/06 [Teamwork Hack Vol.1](https://appresso-cybozu.doorkeeper.jp/events/22358) [YuSulio](https://www.slideshare.net/zaki5269/yusulio) 【AWS賞】【YuMake賞】
 - 2014/10 [NTT西日本 × TBS TV HACK DAY](http://www.tbs.co.jp/nw_tv_hack_day/) スマイレイト 【優秀賞】 アイデア賞 【API企業賞】 オムロン賞
 - 2013/11 mixi Scrap Challenge 【Most Valuable Team 2013.12.14】
-- 2013/11 [テクノアイデアコンテスト ”テクノ愛2014”](http://www.khc.or.jp/ology/tecno25.html) [へそくリスト](http://interaction-design.kit.ac.jp/2019/physical/works/works_contents/2013/2013works0202.html) 【大学の部】 準グランプリ
+- 2013/11 [テクノアイデアコンテスト ”テクノ愛2014”](http://www.khc.or.jp/ology/tecno25.html) [へそくリスト](http://interaction-design.kit.ac.jp/2020/physical/works/works_contents/2013/2013works0202.html) 【大学の部】 準グランプリ
 
 ### 執筆歴
 

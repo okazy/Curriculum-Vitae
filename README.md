@@ -2,12 +2,12 @@
 
 ## 基本情報
 
-|key|value|
-|---|-----|
-|Name|岡嶋 秀記 (Hideki Okajima))|
-|GitHub|[okazy](https://github.com/okazy)|
-|Twitter|[@OwOkazy](https://twitter.com/OwOkazy)|
-|Facebook|[hideki.okajima.758](https://www.facebook.com/hideki.okajima.758)|
+| key      | value                                                             |
+|----------|-------------------------------------------------------------------|
+| Name     | 岡嶋 秀記 (Hideki Okajima))                                           |
+| GitHub   | [okazy](https://github.com/okazy)                                 |
+| Twitter  | [@OwOkazy](https://twitter.com/OwOkazy)                           |
+| Facebook | [hideki.okajima.758](https://www.facebook.com/hideki.okajima.758) |
 
 ## スキル
 
@@ -16,22 +16,32 @@
 - 日本語
   - ネイティブ
 - 英語
-  - 英語のドキュメントをGoogle翻訳や辞書を使いつつ、だいたいの意味をつかむことができる
+  - 英語のドキュメントをGoogle翻訳や辞書を使いつつ、だいたいの意味を理解できる
 - PHP
 - JavaScript
 - など
 
 ### 技術
 
-|分類|詳細|
-|---|-----|
-|PHP|PHPUnit, Symfony, Doctrine, twig, silex, Smarty|
-|フロントエンド|JavaScript, HTML5, CSS, SCSS|
-|DB|PostgreSQL, MySQL, SQLite|
-|CI|TravisCI, Selenium, Docker, GitHub Actions|
-|バージョン管理システム|Git, SVN|
-|OS|MacOS, Linux, Windows|
-|インフラ|AWS, GCP, さくらクラウドなど|
+| 分類      | 詳細                                                                   |
+|---------|----------------------------------------------------------------------|
+| バックエンド  | PHP, Symfony, Laravel, PHPUnit, Doctrine, twig, silex, Smarty        |
+| フロントエンド | JavaScript, Angular , HTML5, CSS, SCSS                               |
+| DB      | PostgreSQL, MySQL, SQLite                                            |
+| CI      | Docker, TravisCI, CircleCI, GitHub Actions, AWS CodeDeploy, Selenium |
+| バージョン管理 | Git, SVN                                                             |
+| OS      | MacOS, Linux, Windows                                                |
+| インフラ    | AWS, GCP, さくらクラウドなど                                                  |
+| 監視      | Datadog, Sentry                                                      |
+
+### 資格など
+
+- 認定スクラムマスター
+- 第二種電気工事士
+- 危険物取扱者乙種第４類
+- 高圧ガス販売主任者第二種
+- 第一種普通自動車運転免許
+- 世界遺産検定4級
 
 ### その他好むもの
 
@@ -50,6 +60,9 @@
 - OSS のコアエンジニアとしての開発経験
 - OSS コミュニティの立ち上げおよびコアメンバーとして牽引した経験
 - フレームワークを使うだけでなく、フレームワークを作る経験
+- 高負荷・高アクセスサービスの保守運用経験
+- レガシーシステムの保守運用およびリプレイス経験
+- テックリードとしてチームを牽引した経験
 - コンプピュータサイエンス/数学/統計学などの基礎知識
 
 ## やったことはないが興味があるもの
@@ -59,14 +72,33 @@
 
 ## 職務経歴
 
-### 2019/01 - 現在 : 株式会社イーシーキューブ
+### 2021/10 - 現在 : Classi 株式会社
+
+職務: バックエンドエンジニア
+
+#### サービスの保守運用改善 (2021/10 - 現在)
+
+- 社内でもアクセスの多いコミュニケーション関連サービス
+- テックリードとして十数人のチームを牽引
+- 最大 RPS:6k / RAU:37k / DAU:640k
+- パフォーマンス監視・チューニング
+- インシデントコマンダー
+- チームメンバーのケア・他チームとの折衝
+
+#### レガシーシステムのリプレイス (2021/10 - 現在)
+
+- EOL に伴うシステムリプレイス対応
+- PHP7/FuelPHP/AngularJS -> PHP8/Laravel/Angular
+- スクラムを導入し、PO兼SM兼開発者として数人のチームを牽引
+
+### 2019/01 - 2021/09 : 株式会社イーシーキューブ
 （2019/10に株式会社イルグルムから転籍）
 
 職務: オープンエンジニア
 
-#### EC-CUBE のバージョンアップ (2020/04 - 現在)
+#### EC-CUBE のバージョンアップ (2020/04 - 2021/09)
 
-- 最新バージョンの技術検証、開発およびリリース
+- 最新バージョンの技術検証および開発
 - セキィリティ対策や脆弱性診断など
 - PHP8 / Symfony4.4 / Composer2.0 等の最新バージョンへの対応
 - EC-CUBE の独自の拡張機構の検証と実装
@@ -126,13 +158,6 @@
 - 岡嶋, “単語ベクトルによる省略識別子の復元推定手法に関する研究,” 修士学位論文, 京都工芸繊維大学大学院工芸科学研究科, 2015年.
 - 岡嶋, 河端, 水野, “[単語ベクトルを用いた省略識別子の復元手法](https://se.is.kit.ac.jp/pman/pman3.cgi?D=699),” ソフトウェア信頼性研究会FORCE2014予稿集, 2-2, 2014年12月.
 - H. Okajima and O. Mizuno, “[Applying Vector Calculation for Identifiers in Source Code Towards Bug Prediction](https://se.is.kit.ac.jp/pman/pman3.cgi?D=694#),” [In Poster presentation of 6th International Workshop on Empirical Software Engineering in Practice (IWESEP2014)](https://iwesep2014.github.io/), November 2014.
-
-## 資格
-
-- 2009/09 第一種普通自動車運転免許
-- 2010/10 危険物取扱者乙種第４類
-- 2014/03 高圧ガス販売主任者第二種
-- 2014/09 第二種電気工事士
 
 ## 課外活動
 

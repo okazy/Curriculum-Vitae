@@ -1,17 +1,5 @@
 # 岡嶋 秀記 (okazy)
 
-## プロダクト＆コーポレートセキュリティエンジニア
-
-### Profile Summary
-ソフトウェアエンジニアとして大規模Webサービスの開発・運用を経験した後、2023年よりセキュリティエンジニアに転身。現在は、事業と組織を守る「コーポレートセキュリティ」領域を主軸にキャリアを築いています。
-
-**開発者の視点とスピード感を理解している**からこそ、ビジネス成長を阻害しない実践的なセキュリティの実現を追求しています。アプリケーションの脆弱性対策から、XDRによる脅威検知、ISMS運用、生成AIの活用支援まで、技術と組織の両面から企業の安全な航海をリードします。
-
-### なぜセキュリティの道へ？
-バックエンドエンジニアとしてサービスの信頼性（Reliability）を追求する中で、その根幹には安全性（Security）が不可欠であると強く認識するようになりました。開発スピードと安全性を両立させ、開発者が安心して価値創造に集中できる環境を作りたい。その想いから、自身のキャリアの軸足をセキュリティ領域に移すことを決意しました。開発現場の「痛み」を知る私だからこそ、架け橋となれる役割があると信じています。
-
-### 基本情報
-
 | key      | value                                                             |
 |----------|-------------------------------------------------------------------|
 | Name     | 岡嶋 秀記 (Hideki Okajima)                                           |
@@ -19,194 +7,137 @@
 | X  | [@OwOkazy](https://x.com/OwOkazy)                           |
 | Facebook | [hideki.okajima.758](https://www.facebook.com/hideki.okajima.758) |
 
-## セキュリティ領域における専門性
 
-### 1. プロダクトセキュリティ
-* 脆弱性管理プロセスの構築・運用（脆弱性の特定・評価・管理）
-* 自動脆弱性診断ツール等の導入と開発パイプラインへの統合
+## 職務要約 / Profile Summary
 
-### 2. サイバーディフェンス & インシデントレスポンス
-* XDR基盤の導入・運用によるエンドポイントの脅威監視と対応
-* インシデント対応フローの整備、トリアージ、管理体制の構築
-* 内部不正の脅威分析と技術的・組織的対策の立案・実施
+セキュリティエンジニア。XDR基盤の導入・運用とIR体制を構築。脆弱性管理と自動脆弱性診断のCI統合を主導。ISMS（ISO/IEC 27001/27017）の取得・更新・運用を支援し、生成AIのリスクアセスメントとセキュア活用ガイドを策定。前職ではバックエンドのテックリードとして高負荷サービスを運用（RPS 6,000 / RAU 37,000 / DAU 640,000）、レガシー刷新とスクラム導入をPO/SM/Dev兼任で推進。EC-CUBEのWeb API開発とメジャーアップデートをリードし、OSSとコミュニティ運営でも実績。強みはDevSecOps × ガバナンスの横断実行力と現場実装の速さ。
 
-### 3. セキュリティガバナンス
-* ISMS (ISO 27001) 認証の取得・更新・運用支援
-* 生成AI等の新技術に対するリスクアセスメントとセキュア活用ガイドラインの策定
 
-## 技術・スキル
+## 実績ハイライト / Achievements
 
-| 分類      | 詳細                                                                   |
-|---------|----------------------------------------------------------------------|
-| バックエンド  | PHP, Symfony, Laravel, PHPUnit, Doctrine, twig, silex, Smarty        |
-| フロントエンド | JavaScript, Angular , HTML5, CSS, SCSS                               |
-| DB      | PostgreSQL, MySQL, SQLite                                            |
-| CI      | Docker, TravisCI, CircleCI, GitHub Actions, AWS CodeDeploy, Selenium |
-| バージョン管理 | Git, SVN                                                             |
-| OS      | MacOS, Linux, Windows                                                |
-| インフラ    | AWS, GCP, さくらクラウドなど                                                  |
-| 監視      | Datadog, Sentry                                                      |
+* **XDR基盤の導入・運用（2023/04–現在）**：エンドポイントの脅威監視と対応を担当。トリアージと管理体制を整備。
+* **インシデント対応フロー整備（2023/04–現在）**：対応フローの整備、トリアージ、管理体制の構築。
+* **脆弱性管理プロセスの構築・運用（2023/04–現在）**：脆弱性の特定・評価・管理を実施。
+* **自動脆弱性診断の導入とCI統合（2023/04–現在）**：自動脆弱性診断ツールを導入し、開発パイプラインへ統合。
+* **ISMS運用支援（2023/04–現在）**：認証の取得・更新・運用を支援。（ISO 27001/27017）
+* **生成AIリスク対応（2023/04–現在）**：リスクアセスメントとセキュア活用ガイドラインを策定。
+* **高負荷サービスの運用最適化（2021/10–2023/03）**：パフォーマンス監視・チューニング、インシデントコマンダー。RPS 6k / RAU 37k / DAU 640k。
+* **レガシー刷新とスクラム導入（2021/10–2023/03）**：PHP7/FuelPHP/AngularJS→PHP8/Laravel/Angular。スクラム導入。PO/SM/Dev兼任。
+* **EC-CUBE Web API開発（2020/01–2020/09）**：OAuth2.0認可、GraphQL、拡張機構、開発者向けドキュメントを実装。
+* **EC-CUBEバージョンアップ（2020/04–2021/09）**：PHP8・Symfony 4.4・Composer 2.0対応。セキュリティ対策と脆弱性診断を担当。
+* **コミュニティ運営（2018/10–2021/09）**：ユーザグループ/開発コミュニティのリード。1,000人規模イベントの実行委員長。OSS開発をリード。
 
-### 資格
-- 認定スクラムマスター
-- 第二種電気工事士
-- 危険物取扱者乙種第４類
-- 高圧ガス販売主任者第二種
 
-### その他
-- 第一種普通自動車運転免許
-- 世界遺産検定4級
+## スキル / Skills
 
-### 開発文化・ツール
-- アジャイルソフトウェア開発宣言 / スクラム開発
-- 好きなツール: Mac, GitHub, Jira, Slack, JetBrains
-- 最近の関心事: 生成AIの活用
+* **Security Operations & IR**：XDR運用 / エンドポイント脅威監視 / インシデント対応 / トリアージ / 内部不正の脅威分析
+* **AppSec / DevSecOps**：脆弱性管理プロセスの構築・運用 / 自動脆弱性診断の導入とパイプライン統合
+* **Governance & Risk**：ISMS (ISO/IEC 27001 | 27017) 運用支援 / 生成AIリスクアセスメント / セキュア活用ガイドライン策定
+* **Cloud / Infra**：AWS | Google Cloud | SAKURA Cloud
+* **Backend**：PHP | Symfony | Laravel | PHPUnit | Doctrine | Twig | Silex | Smarty
+* **Frontend**：JavaScript | Angular | HTML5 | CSS | SCSS
+* **Databases**：PostgreSQL | MySQL | SQLite
+* **CI/CD & QA**：Docker | Travis CI | CircleCI | GitHub Actions | AWS CodeDeploy | Selenium
+* **Monitoring**：Datadog | Sentry
+* **Version Control**：Git | SVN
+* **OS**：macOS | Linux | Windows
+* **Practices / Tools**：Agile / Scrum | GitHub | Jira | Asana | Slack
 
-## 提供できる3つの価値（強み）
 
-### 1. 開発の文化と速度を尊重する「実践的セキュリティ」
+## 職務経歴 / Work Experience
 
-ソフトウェア開発の現場を知っているからこそ、理想論だけではない、開発者の「痛み」に寄り添ったセキュリティ施策を提案・実行できます。開発チームの「味方」として、ビジネスの成長を加速させるセキュリティを実現します。
+**Classi 株式会社 | Security Engineer | 2023/04–現在**
 
-* **開発プロセスへの自然な統合**: 開発者が普段使うツール（GitHub, CircleCI等）やプロセス上でセキュリティチェックが完結する仕組みを構築し、特別な負担なく安全な開発が続けられる環境を作ります。
-* **具体的な改善提案**: 脆弱性を指摘するだけでなく、自身の開発経験を基に「どう修正すればよいか」まで踏み込んでレビューやディスカッションができます。
-* **OSSコミュニティ運営で培った調整力**: 多様なステークホルダーと円滑に合意形成を図り、全社的なセキュリティ施策の導入をスムーズに推進します。
+* XDR基盤の導入・運用によるエンドポイント脅威監視と対応。
+* インシデント対応フローの整備 / トリアージ / 管理体制の構築。
+* 脆弱性管理プロセスの構築・運用。
+* 自動脆弱性診断ツールの導入と開発パイプライン統合。
+* ISMS (ISO/IEC 27001 | 27017) 認証の取得・更新・運用支援。
+* 生成AIのリスクアセスメントとセキュア活用ガイドライン策定。
+* キーワード: XDR / Incident Response / Vulnerability Management / DevSecOps / ISO 27001 / ISO 27017 / AI Governance
 
-### 2. 技術と組織を横断する「セキュリティ対応力」
+**Classi 株式会社 | Backend Engineer | 2021/10–2023/03**
 
-アプリケーションという技術的な側面と、ISMS運用などの組織的な側面の両方に関わってきた経験から、多角的な視点でセキュリティ課題に対応します。
+* 社内高トラフィックのコミュニケーション系サービスを保守運用。テックリードとして十数人を牽引。
+* 指標: RPS 6,000 / RAU 37,000 / DAU 640,000。
+* パフォーマンス監視・チューニング。インシデントコマンダー。
+* レガシー刷新: PHP7/FuelPHP/AngularJS → PHP8/Laravel/Angular。
+* スクラム導入。PO兼SM兼開発者として推進。
 
-* **複数レイヤーでのセキュリティ運用経験**: Webアプリケーションの脆弱性対策から、XDRを用いたエンドポイント監視まで、複数の技術レイヤーにおけるセキュリティ運用に携わってきました。
-* **組織的セキュリティ活動への貢献**: ISMS認証の運用支援を通じて、規程の運用や従業員への働きかけなど、組織全体のセキュリティを維持・向上させる活動に貢献できます。
-* **インシデント対応の実務経験**: 有事の際には、インシデントのトリアージや分析、実務を担当し、被害の抑制に努めます。
+**株式会社イーシーキューブ（2019/01–2021/09）　※2019/10に株式会社イルグルムから転籍**
 
-### 3. 変化に強く形骸化しない「アジャイルなセキュリティ運用」
+* **EC-CUBE バージョンアップ (2020/04–2021/09)**:
+  * 最新版の技術検証・開発。セキュリティ対策・脆弱性診断。PHP8/Symfony 4.4/Composer 2.0 対応。独自拡張機構の検証・実装。機能追加・改善・コードレビュー。
+* **EC-CUBE Web API 開発 (2020/01–2020/09)**:
+  * EC-CUBE4向け[Web APIプラグイン](https://github.com/EC-CUBE/eccube-api4)を要件定義〜リリースまでリード。OAuth 2.0 認可、GraphQL Query/Mutation、拡張機構、[開発者向けドキュメント](https://doc.ec-cube.net/eccube-api4/)を実装。
+* **コミュニティマネージャ (2018/10–2021/09)**:
+  * [ユーザグループ](https://ec-cube-kansai.doorkeeper.jp/)/[開発コミュニティ](https://xoops.ec-cube.net/)のリード。[OSS開発を推進](https://github.com/EC-CUBE/ec-cube/graphs/contributors?from=2018%2F10%2F1&to=2021%2F3%2F31&type=c)。[1,000人規模イベント](https://www.ec-cube.net/lp/eccube-day-2019/)の実行委員長。
 
-「一度作って終わり」のルールではなく、ビジネスや技術の変化に合わせて進化し続ける「生きたセキュリティ」を運用します。自動化や新しい技術を積極的に活用し、常に最適で効率的な状態を保ちます。
+**株式会社イルグルム（旧: ロックオン） | Backend Engineer | 2015/04–2019/09**
 
-* **自動化による効率化**: 脆弱性スキャンや構成チェックなどを自動化し、人手を介さずに継続的なセキュリティ監視を実現。セキュリティチームがより創造的な業務に集中できる環境を整えます。
-* **アジャイル開発への適応**: スクラムマスターの経験を活かし、アジャイルな開発サイクルの中にセキュリティ活動を無理なく組み込むプロセスを設計できます。
-* **先進技術へのキャッチアップ**: 生成AIなどの新しいテクノロジーがもたらすリスクを迅速に評価し、ビジネスチャンスを逃さないための安全な活用ガイドラインを策定・提供します。
+* **EC-CUBE メジャーバージョンアップ (2017/10–2018/10)**:
+  * [EC-CUBE4](https://github.com/EC-CUBE/ec-cube)のPOC開発。スクラム開発に参画。フレームワーク拡張の実装。UI/UXを考慮した画面設計。自動テスト/CI/CDを実施。
+* **受託開発 (2015/04–2017/09)**:
+  * ECサイトを中心にインフラ〜フロントまで担当。要件定義〜運用サポートを一気通貫で対応。オフショア開発を経験。
+  * 代表案件: アーティストEC（新規構築/高アクセス対策）/ 健康食品EC（基幹システム連携/高アクセス対策）/ オンプレ→クラウド移行 / 事業移管 / ステップメール・キャンペーン・見積もり機能開発。
 
-## 職務経歴
 
-### 2021/10 - 現在 : Classi 株式会社
+## 学歴 / Education
 
-#### セキュリティエンジニア (2023/04 - 現在)
+* **京都工芸繊維大学（Kyoto Institute of Technology） | 大学院 工芸科学研究科 情報工学専攻（博士前期課程/修士課程） | 2013/04–2015/03**
+  * 研究室：ソフトウェア工学（Software Engineering Lab）
+  * 学術活動：修士学位論文（2015）/ [IEICE Technical Report（2015](https://cir.nii.ac.jp/crid/1520290884299554944) / [IWESEP 2014 Poster]([https://se.is.kit.ac.jp/pman4/ja/detail/694](https://iwesep2014.github.io/)) / [FORCE 2014](https://se.is.kit.ac.jp/pman4/ja/detail/699)
 
-事業と組織の成長を支えるコーポレートセキュリティ全般を担当。開発部門での経験を活かし、開発プロセスに寄り添ったセキュリティ施策を推進。
 
-- **主な担当業務**: 上記「セキュリティ領域における専門性」に記載。
-- **ミッション**: ビジネスを加速させるための、実践的でスケーラブルなセキュリティ基盤を構築すること。
+## 資格 / Certifications
 
-#### バックエンドエンジニア (2021/10 - 2023/03)
+* 認定スクラムマスター | Scrum Master certification
+* 第二種電気工事士 | Second Class Electrician (Japan)
+* 危険物取扱者 乙種第4類 | Hazardous Materials Handler Class B-4 (Flammable Liquids)
+* 高圧ガス販売主任者 第二種 | High-Pressure Gas Sales Safety Manager Class 2
+* 普通自動車第一種運転免許 | Class 1 Driver’s License (Japan)
+* 世界遺産検定 4級 | World Heritage Test Level 4
 
-##### サービスの保守運用改善
 
-- 社内でもアクセスの多いコミュニケーション関連サービス
-- テックリードとして十数人のチームを牽引
-- 最大 RPS:6k / RAU:37k / DAU:640k
-- パフォーマンス監視・チューニング
-- インシデントコマンダー
-- チームメンバーのケア・他チームとの折衝
+## 登壇・受賞 / Talks & Awards
 
-##### レガシーシステムのリプレイス
+### 登壇 / Talks
 
-- EOL に伴うシステムリプレイス対応
-- PHP7 / FuelPHP / AngularJS -> PHP8 / Laravel / Angular
-- スクラムを導入し、PO兼SM兼開発者として数人のチームを牽引
+* 登壇資料一覧: [SlideShare](https://www.slideshare.net/hidekiokajima758) | [Speaker Deck](https://speakerdeck.com/okazy)
 
-### 2019/01 - 2021/09 : 株式会社イーシーキューブ
-（2019/10に株式会社イルグルムから転籍）
+### 受賞 / Awards
 
-職務: オープンエンジニア
+* **2018/12** | KansaiLT 2nd @ さくらインターネット | さくらインターネット賞
+* **2016/08** | 築地ッカソン | 迷路(仮) | リアルだね賞
+* **2015/11** | [Hardening 10 ValueChain](https://wasforum.jp/2015/08/hardening-10-valuechain/) | [主催者に取り上げられました](https://www.lac.co.jp/lacwatch/people/20151120_000284.html)
+* **2015/08** | [茶ッカソン](https://peatix.com/event/101862) | 3位入賞 / ABC特別賞
+* **2015/06** | [Teamwork Hack Vol.1「YuSulio」](https://appresso-cybozu.doorkeeper.jp/events/22358) | AWS賞 / YuMake賞
+* **2014/10** | [NTT西日本 × TBS TV HACK DAY](https://www.tbs.co.jp/nw_tv_hack_day/) 「スマイレイト」 | 優秀賞 / アイデア賞 / API企業賞 / オムロン賞
+* **2013/11** | mixi Scrap Challenge | Most Valuable Team 2013.12.14
+* **2013/11** | [テクノアイデアコンテスト “テクノ愛2014”](https://www.khc.or.jp/ology/tecno25.html)「へそくリスト」 | 大学の部 準グランプリ
 
-#### EC-CUBE のバージョンアップ (2020/04 - 2021/09)
 
-- 最新バージョンの技術検証および開発
-- セキュリティ対策や脆弱性診断など
-- PHP8 / Symfony4.4 / Composer2.0 等の最新バージョンへの対応
-- EC-CUBE の独自の拡張機構の検証と実装
-- 機能追加や機能改善の開発およびソースコードレビュー
 
-#### EC-CUBE Web API 開発 (2020/01 - 2020/09)
+## 出版・執筆 / Publications
 
-- EC-CUBE4 対応の [Web API プラグイン](https://github.com/EC-CUBE/eccube-api4)の開発
-- 要件定義/技術選定から設計/開発/リリースまでの全工程をリード
-- OAuth2.0 による認可のサーバサイドの開発
-- GraphQL の Query および Mutation の開発
-- 開発者向けの拡張機構の開発
-- [開発者向けドキュメント](https://doc.ec-cube.net/eccube-api4/)の作成
+### Academic
 
-#### コミュニティマネージャ (2018/10 - 2021/09)
+* **2015/03** | [*An Approach for Abbreviated Identifier Expansion with Machine Learning*](https://cir.nii.ac.jp/crid/1520290884299554944) | IEICE Technical Report, 114(SS2014-68), pp.79–84 | Hideki, Osamu
+* **2015** | 「単語ベクトルによる省略識別子の復元推定手法に関する研究」 | 修士学位論文（京都工芸繊維大学大学院 工芸科学研究科） | 岡嶋 秀記
+* **2014/12** | [「単語ベクトルを用いた省略識別子の復元手法」](https://se.is.kit.ac.jp/pman4/ja/detail/699) | ソフトウェア信頼性研究会 FORCE2014 予稿集, 2-2 | 岡嶋・河端・水野
+* **2014/11** | [*Applying Vector Calculation for Identifiers in Source Code Towards Bug Prediction*](https://se.is.kit.ac.jp/pman4/ja/detail/694) | [IWESEP2014 Poster](https://iwesep2014.github.io/) | H. Okajima, O. Mizuno
 
-- [ユーザグループ](https://ec-cube-kansai.doorkeeper.jp/)や[開発コミュニティ](https://xoops.ec-cube.net/)のリード
-- GitHub 上での [OSS 開発](https://github.com/EC-CUBE/ec-cube/graphs/contributors?from=2018-10-01&to=2021-03-31&type=c)をリード
-- 1000人規模を巻き込んだ[イベント](https://www.ec-cube.net/events/eccube_day_2019/)の実行委員長の経験
-- 社内外のコミュニケーションの牽引
-- UI/UX 改善や技術サポートなどでマーケットプレイス型ストアの売上推進
+### Articles
 
-### 2015/04 - 2019/09 : 株式会社イルグルム（旧：株式会社ロックオン）
+* **Qiita** | 技術記事（プロフィール） | [https://qiita.com/okazy](https://qiita.com/okazy)
 
-#### EC-CUBE のメジャーバージョンアップ (2017/10 - 2018/10)
+## コミュニティ / Volunteer
 
-職務: バックエンドエンジニア
+* **[EC-CUBE Kansai User Group](https://ec-cube-kansai.doorkeeper.jp/) — Organizer（運営）**
+* **Symfony Meetup Kansai — Co-founder（立ち上げ）**
 
-- [EC-CUBE4](https://github.com/EC-CUBE/ec-cube) メジャーバージョンの POC 開発
-- 開発メンバーとしてスクラム開発を経験
-- フレームワークの開発を経験（独自拡張機構の実装など）
-- UI/UXを考慮した画面設計など
-- 自動テスト、CI/CD を経験
 
-#### EC サイトを中心とした受託開発 (2015/04 - 2017/09)
+## 言語 / Languages
 
-職務: フルスタックエンジニア
-
-- EC-CUBE を軸にした Web サイトの開発及び保守
-- インフラ構築からフロントエンドの開発まで経験
-- 要件定義から設計、開発、テスト、運用サポートまで経験
-- オフショア開発を経験
-- 代表的なプロジェクト
-  - アーティストの EC サイト（新規サイト構築、高アクセス対策など）
-  - 健康食品の EC サイト（基幹システム連携、高アクセス対策など）
-  - オンプレからクラウドへの移行プロジェクト
-  - 事業移管プロジェクト
-  - その他、ステップメール、キャンペーン機能、見積もり機能などを開発
-
-### 2013/04 - 2015/03: 国立京都工芸繊維大学大学院 情報工学専攻 博士前期課程
-
-研究室: ソフトウェア工学
-
-#### 学術活動
-
-- Hideki, Osamu, “[An Approach for Abbreviated Identifier Expansion with Machine Learning](https://ci.nii.ac.jp/naid/110010022018),” IEICE Technical Report, 114(SS2014-68), pp. 79-84 March 2015.
-- 岡嶋, “単語ベクトルによる省略識別子の復元推定手法に関する研究,” 修士学位論文, 京都工芸繊維大学大学院工芸科学研究科, 2015年.
-- 岡嶋, 河端, 水野, “[単語ベクトルを用いた省略識別子の復元手法](https://se.is.kit.ac.jp/pman/pman3.cgi?D=699),” ソフトウェア信頼性研究会FORCE2014予稿集, 2-2, 2014年12月.
-- H. Okajima and O. Mizuno, “[Applying Vector Calculation for Identifiers in Source Code Towards Bug Prediction](https://se.is.kit.ac.jp/pman/pman3.cgi?D=694#),” [In Poster presentation of 6th International Workshop on Empirical Software Engineering in Practice (IWESEP2014)](https://iwesep2014.github.io/), November 2014.
-
-## 課外活動
-
-### 社外プロジェクト
-
-- [EC-CUBE 関西 UG](https://ec-cube-kansai.doorkeeper.jp/) の運営
-- [Symfony Meetup Kansai](https://symfony-kansai.connpass.com/) の立ち上げ
-
-### 過去の登壇資料
-
-- [SlideShare](https://www.slideshare.net/hidekiokajima758)
-- [Speaker Deck](https://speakerdeck.com/okazy)
-
-### 受賞歴
-
-- 2018/12 KansaiLT 2nd @さくらインターネット【さくらインターネット賞】
-- 2016/08 [築地ッカソン](https://tsukijickathon.connpass.com/event/36096/) 迷路(仮) 【リアルだね賞】
-- 2015/11 [Hardening 10 ValueChain](https://wasforum.jp/2015/08/hardening-10-valuechain/) [主催者に取り上げられました](https://www.lac.co.jp/lacwatch/people/20151120_000284.html)
-- 2015/08 [茶ッカソン](https://peatix.com/event/101862) 【3位入賞】【ABC特別賞】
-- 2015/06 [Teamwork Hack Vol.1](https://appresso-cybozu.doorkeeper.jp/events/22358) [YuSulio](https://www.slideshare.net/zaki5269/yusulio) 【AWS賞】【YuMake賞】
-- 2014/10 [NTT西日本 × TBS TV HACK DAY](http://www.tbs.co.jp/nw_tv_hack_day/) スマイレイト 【優秀賞】 アイデア賞 【API企業賞】 オムロン賞
-- 2013/11 mixi Scrap Challenge 【Most Valuable Team 2013.12.14】
-- 2013/11 [テクノアイデアコンテスト ”テクノ愛2014”](http://www.khc.or.jp/ology/tecno25.html) [へそくリスト](http://interaction-design.kit.ac.jp/2020/physical/works/works_contents/2013/2013works0202.html) 【大学の部】 準グランプリ
-
-### 執筆歴
-
-- [Qiita](https://qiita.com/okazy)
+* 日本語 / Japanese — ネイティブ（業務・登壇・コミュニティ運営で使用）
+* 英語 / English — 技術文書・学術論文の読解 / 執筆・ポスター発表の実績（IEICE Tech Report, IWESEP 2014 Poster）

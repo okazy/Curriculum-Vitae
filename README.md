@@ -10,38 +10,58 @@
 
 ## 職務要約 / Profile Summary
 
-セキュリティエンジニア。XDR基盤の導入・運用とIR体制を構築。脆弱性管理と自動脆弱性診断のCI統合を主導。ISMS（ISO/IEC 27001/27017）の取得・更新・運用を支援し、生成AIのリスクアセスメントとセキュア活用ガイドを策定。前職ではバックエンドのテックリードとして高負荷サービスを運用（RPS 6,000 / RAU 37,000 / DAU 640,000）、レガシー刷新とスクラム導入をPO/SM/Dev兼任で推進。EC-CUBEのWeb API開発とメジャーアップデートをリードし、OSSとコミュニティ運営でも実績。強みはDevSecOps × ガバナンスの横断実行力と現場実装の速さ。
+セキュリティエンジニア。XDR基盤の導入・運用とIR体制を構築。脆弱性管理と自動脆弱性診断のCI統合を主導。ISMS（ISO/IEC 27001/27017）の取得・更新・運用を支援し、生成AIのリスクアセスメントとセキュア活用ガイドを策定。前職ではバックエンドのテックリードとして高負荷サービスを運用（RPS 6,000 / RAU 37,000 / DAU 640,000）。レガシー刷新とスクラム導入をPO/SM/Dev兼任で推進。DevSecOpsとガバナンスを横断し、設計から現場実装までを迅速に進める実行力が強み。OSSとコミュニティ運営の実績あり。
 
 
 ## 実績ハイライト / Achievements
 
-* **XDR基盤の導入・運用（2023/04–現在）**：エンドポイントの脅威監視と対応を担当。トリアージと管理体制を整備。
-* **インシデント対応フロー整備（2023/04–現在）**：対応フローの整備、トリアージ、管理体制の構築。
-* **脆弱性管理プロセスの構築・運用（2023/04–現在）**：脆弱性の特定・評価・管理を実施。
-* **自動脆弱性診断の導入とCI統合（2023/04–現在）**：自動脆弱性診断ツールを導入し、開発パイプラインへ統合。
-* **ISMS運用支援（2023/04–現在）**：認証の取得・更新・運用を支援。（ISO 27001/27017）
-* **生成AIリスク対応（2023/04–現在）**：リスクアセスメントとセキュア活用ガイドラインを策定。
-* **高負荷サービスの運用最適化（2021/10–2023/03）**：パフォーマンス監視・チューニング、インシデントコマンダー。RPS 6k / RAU 37k / DAU 640k。
-* **レガシー刷新とスクラム導入（2021/10–2023/03）**：PHP7/FuelPHP/AngularJS→PHP8/Laravel/Angular。スクラム導入。PO/SM/Dev兼任。
-* **EC-CUBE Web API開発（2020/01–2020/09）**：OAuth2.0認可、GraphQL、拡張機構、開発者向けドキュメントを実装。
-* **EC-CUBEバージョンアップ（2020/04–2021/09）**：PHP8・Symfony 4.4・Composer 2.0対応。セキュリティ対策と脆弱性診断を担当。
-* **コミュニティ運営（2018/10–2021/09）**：ユーザグループ/開発コミュニティのリード。1,000人規模イベントの実行委員長。OSS開発をリード。
+* **XDR基盤の導入・運用（2023/04–現在）**
+  * ログが点在し相関不可で検知・初動が遅延（S）を是正（T）。XDRを導入しアラート監視・トリアージ・初動調査を運用（A）。相関分析を実現し検知精度向上と対応リードタイム短縮（R）。
+* **インシデント対応体制の構築（2023/04–現在）**
+  * 発生時の役割・フロー不明で初動が乱れ遅延（S）を是正（T）。対応フロー・役割・ドキュメントを整備し通報運用を定着、ICとして指揮（A）。クローズ時間を従来比1/4へ短縮（R）。
+* **脆弱性管理プロセスの確立（2023/04–現在）**
+  * 脆弱性対応状況が不明、プロダクト改善に繋がらない（S）を是正（T）。特定・評価・対策の標準プロセスを設計・運用し改善サイクルに組込み（A）。状況可視化と品質向上を定着（R）。
+* **自動脆弱性診断のCI統合（2023/04–現在）**
+  * 脆弱性対応が後手（S）を是正（T）。自動脆弱性診断を導入し開発パイプラインに統合（A）。リリース速度を維持したままセキュリティ品質を担保（R）。
+* **ISMS運用支援（ISO/IEC 27001/27017）（2023/04–現在）**
+  * 認証の取得・更新・運用を支援。（ISO 27001/27017）
+* **生成AIリスク対応（2023/04–現在）**
+  * 生成AIのリスクが不明確で統制未整備（S）に対処（T）。リスクアセスメントとセキュア活用ガイドラインを策定、脅威情報収集と対策（A）。社内での安全な生成AI活用を定着（R）。
+* **高負荷サービスの運用最適化（2021/10–2023/03）**
+  * 高負荷下でサービス品質低下と障害リスク増大（S）を是正（T）。監視強化とボトルネック解消をICとして主導（A）。RPS 6,000/RAU 37,000/DAU 640,000規模で安定運用を維持（R）。
+* **レガシー刷新（2021/10–2023/03）**
+  * 技術的負債で開発速度低下（S）を是正（T）。PHP7/Fuel/AngularJS→PHP8/Laravel/Angular移行を主導（A）。リリース安定化と保守性・生産性向上（R）。
+* **アジャイル/スクラム導入（2021/10–2023/03）**
+  * 要件変化に追従困難（S）を改善（T）。PO/SM/Dev兼務で計画/レビュー/レトロの運用を定着（A）。リードタイム短縮と進捗透明性向上（R）。
+* **EC-CUBE Web API開発（2020/01–2020/09）**
+  * 拡張性不足（S）を是正（T）。プロジェクトを主導し OAuth 2.0・GraphQL・拡張機構・Devドキュメントを実装（A）。API連携を可能化し導入容易性と拡張性を向上（R）。
+* **EC-CUBE本体メジャー更新（2020/04–2021/09）**
+  * 依存のEOLと技術的負債（S）を是正（T）。PHP8・Symfony4.4・Composer2.0対応と診断/レビューでセキュリティ強化（A）。セキュアで拡張性・保守性の高い版をリリース（R）。
+* **コミュニティ運営とOSS貢献（2018/10–2021/09）**
+  * 牽引役不在で情報分断と参加停滞（S）を是正（T）。ユーザーグループ/開発コミュニティ運営、1,000人規模イベント実行委員長、継続的OSS貢献を主導（A）。採用・普及を促進しエコシステムを活性化（R）。
 
 
 ## スキル / Skills
 
-* **Security Operations & IR**：XDR運用 / エンドポイント脅威監視 / インシデント対応 / トリアージ / 内部不正の脅威分析
-* **AppSec / DevSecOps**：脆弱性管理プロセスの構築・運用 / 自動脆弱性診断の導入とパイプライン統合
-* **Governance & Risk**：ISMS (ISO/IEC 27001 | 27017) 運用支援 / 生成AIリスクアセスメント / セキュア活用ガイドライン策定
-* **Cloud / Infra**：AWS | Google Cloud | SAKURA Cloud
-* **Backend**：PHP | Symfony | Laravel | PHPUnit | Doctrine | Twig | Silex | Smarty
-* **Frontend**：JavaScript | Angular | HTML5 | CSS | SCSS
-* **Databases**：PostgreSQL | MySQL | SQLite
-* **CI/CD & QA**：Docker | Travis CI | CircleCI | GitHub Actions | AWS CodeDeploy | Selenium
-* **Monitoring**：Datadog | Sentry
-* **Version Control**：Git | SVN
-* **OS**：macOS | Linux | Windows
-* **Practices / Tools**：Agile / Scrum | GitHub | Jira | Asana | Slack
+### コア（領域・能力）
+
+* **Security Operations & Incident Response**：XDR運用/エンドポイント監視/トリアージ/インシデントコマンド/内部不正対応
+* **Vulnerability Management & DevSecOps**：脆弱性管理プロセス設計・運用/自動脆弱性診断のCI統合/セキュアSDLC
+* **Governance, Risk & Compliance**：ISMS運用（ISO/IEC 27001/27017）/生成AIリスクアセスメント/セキュア利用ガイド策定
+* **Cloud/Infra Design**：権限設計/監視設計/可用性・性能設計
+* **Software Engineering & Agile**：高負荷サービス運用/パフォーマンスチューニング/スクラム運用（PO/SM/Dev）
+
+### ツール・技術（主要）
+
+* **CI/CD・QA**：Docker/GitHub Actions/CircleCI/Travis CI/AWS CodeDeploy/Selenium
+* **Backend**：PHP/Laravel/Symfony/PHPUnit/Doctrine/Twig
+* **Frontend**：JavaScript/Angular/HTML5/CSS/SCSS
+* **API/Auth**：OAuth 2.0/GraphQL
+* **Cloud**：AWS/Google Cloud/SAKURA Cloud
+* **Databases**：PostgreSQL/MySQL/SQLite
+* **Monitoring/APM**：Datadog/Sentry
+* **VCS・Collab**：Git/SVN/GitHub/Jira/Asana/Slack
+* **OS**：macOS/Linux/Windows
 
 
 ## 職務経歴 / Work Experience
@@ -115,7 +135,6 @@
 * **2014/10** | [NTT西日本 × TBS TV HACK DAY](https://www.tbs.co.jp/nw_tv_hack_day/) 「スマイレイト」 | 優秀賞 / アイデア賞 / API企業賞 / オムロン賞
 * **2013/11** | mixi Scrap Challenge | Most Valuable Team 2013.12.14
 * **2013/11** | [テクノアイデアコンテスト “テクノ愛2014”](https://www.khc.or.jp/ology/tecno25.html)「へそくリスト」 | 大学の部 準グランプリ
-
 
 
 ## 出版・執筆 / Publications

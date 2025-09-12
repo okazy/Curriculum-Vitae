@@ -108,7 +108,7 @@
 - **京都工芸繊維大学（Kyoto Institute of Technology）**
   - 大学院 工芸科学研究科 情報工学専攻（博士前期課程/修士課程） 2013/04–2015/03  
   - 研究室：ソフトウェア工学（Software Engineering Lab）
-  - 学術活動：修士学位論文（2015）/ [IEICE Technical Report（2015](https://cir.nii.ac.jp/crid/1520290884299554944) / [IWESEP 2014 Poster]([https://se.is.kit.ac.jp/pman4/ja/detail/694](https://iwesep2014.github.io/)) / [FORCE 2014](https://se.is.kit.ac.jp/pman4/ja/detail/699)
+  - 学術活動：修士学位論文（2015）/ [IEICE Technical Report（2015](https://cir.nii.ac.jp/crid/1520290884299554944) / [IWESEP 2014 Poster](https://se.is.kit.ac.jp/pman4/ja/detail/694) / [FORCE 2014](https://se.is.kit.ac.jp/pman4/ja/detail/699)
 
 
 ## 資格 / Certifications
@@ -125,7 +125,7 @@
 
 ### 登壇 / Talks
 
-- 登壇資料一覧: [SlideShare](https://www.slideshare.net/hidekiokajima758) / [Speaker Deck](https://speakerdeck.com/okazy)
+- 登壇資料一覧: [Speaker Deck](https://speakerdeck.com/okazy) / [SlideShare](https://www.slideshare.net/hidekiokajima758)
 
 ### 受賞 / Awards
 

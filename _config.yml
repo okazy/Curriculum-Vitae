@@ -8,3 +8,11 @@ google_analytics: "UA-140399200-1"
 
 twitter:
   username: OwOkazy
+
+markdown: kramdown
+kramdown:
+  input: GFM           # GFM 構文を Kramdown で解釈
+  syntax_highlighter: rouge
+  hard_wrap: false     # 単なる改行は <br> にしない
+  auto_ids: true       # 見出しにID自動付与
+  toc_levels: "2..4"
